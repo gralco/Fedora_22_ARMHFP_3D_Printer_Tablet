@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=xvkbd
+Comment=Virtual graphical keyboard
+Exec=xvkbd
+Icon=xvkbd
+Path=
+Terminal=false
+StartupNotify=false

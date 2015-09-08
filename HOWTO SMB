@@ -1,0 +1,2 @@
+sudo mount -t cifs -o username=3DPunlimited,password="PBClinear!",uid=android,gid=android,domain=PACIFIC-BEARING '//172.27.1.110/PBC Departments' '/mnt/PBC Departments'
+ln -s /mnt/PBC\ Departments/3DP\ Unlimited/ /home/android/Desktop/3DP\ Unlimited

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Pronterface
+Comment=Controls your 3D printer
+Exec=/home/3dp/Printrun/pronterface.py
+Icon=/home/3dp/Printrun/P-face.png
+Path=/home/3dp/Printrun
+Terminal=false
+StartupNotify=true

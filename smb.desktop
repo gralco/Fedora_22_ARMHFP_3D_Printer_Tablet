@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.9.4
+Type=Application
+Name=smb
+Comment=Connect to PBCLinear's SMB Server
+Exec=sudo mount -t cifs -o username=3DPunlimited,password="PBClinear!",uid=3dp,gid=3dp,domain=PACIFIC-BEARING '//172.27.1.110/PBC Departments' '/mnt/PBC Departments'
+OnlyShowIn=XFCE;
+StartupNotify=false
+Terminal=false
+Hidden=false

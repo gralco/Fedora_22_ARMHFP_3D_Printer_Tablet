@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.9.4
+Type=Application
+Name=permission
+Comment=Set the permission when the microcontroller is attached
+Exec=sh /home/3dp/.config/autostart/permission.sh
+OnlyShowIn=XFCE;
+StartupNotify=false
+Terminal=false
+Hidden=false
+
+Name[en_US]=permission.desktop
